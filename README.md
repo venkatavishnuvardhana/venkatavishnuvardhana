@@ -54,7 +54,7 @@ I have hands-on experience working with SIEM platforms, log analysis, network tr
 🔗 Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/avenkatavishnuvardhan
-- GitHub: github.com/venkatavishnuvardhana
+- GitHub: https://github.com/venkatavishnuvardhana
 - Email: venkatavishnuvardhana@gmail.com
 
 
