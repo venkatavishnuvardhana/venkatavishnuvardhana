@@ -2,13 +2,26 @@
 
 🎯 Cybersecurity Enthusiast | Aspiring SOC Analyst | B.Tech Cybersecurity Student
 
-## About Me
+---
 
-Passionate about cybersecurity, threat detection, incident response, and network security. I am building hands-on experience through SOC labs, SIEM platforms, and real-world security projects while continuously improving my skills in both defensive and offensive security.
+## 🚀 About Me
 
-## Skills & Tools
+I am a Cybersecurity enthusiast pursuing a B.Tech in Cybersecurity with a strong interest in Security Operations Center (SOC) operations, threat detection, incident response, and network security.
 
-### SIEM
+I have hands-on experience working with SIEM platforms, log analysis, network traffic monitoring, and security investigations through academic projects and practical labs. My goal is to continuously develop my technical skills and contribute to protecting organizations from evolving cyber threats.
+
+---
+
+## 🛠️ Skills
+
+### Security Operations
+- Threat Detection
+- Incident Response
+- Log Analysis
+- Threat Hunting
+- Security Monitoring
+
+### SIEM Platforms
 - IBM QRadar
 - Microsoft Sentinel
 
@@ -16,6 +29,8 @@ Passionate about cybersecurity, threat detection, incident response, and network
 - Microsoft Defender
 - Wireshark
 - Nmap
+- Burp Suite
+- Kali Linux
 
 ### Frameworks
 - MITRE ATT&CK
@@ -24,35 +39,61 @@ Passionate about cybersecurity, threat detection, incident response, and network
 ### Networking
 - TCP/IP
 - OSI Model
+- Network Security Fundamentals
 - CCNA Concepts
 
 ### Operating Systems
 - Windows
 - Linux
 
-### Ticketing Tools
+### Ticketing & Collaboration
 - ServiceNow
 - Jira
+- Microsoft Office
 
-## Current Focus
+---
 
-- SOC Analysis
-- Threat Hunting
-- Log Analysis
-- Incident Response
-- Blue Team Operations
+## 🏆 Certifications
 
-<!--
-**venkatavishnuvardhana/venkatavishnuvardhana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC-900)
+- Cisco Networking Academy Certifications
+- Cisco Introduction to Cybersecurity
+- Cisco Cybersecurity Essentials
 
-Here are some ideas to get you started:
+> Currently preparing for advanced SOC and Blue Team certifications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔬 Projects & Labs
+
+### SOC Monitoring Lab
+- Investigated security events and alerts.
+- Performed log analysis and alert triage.
+
+### Microsoft Sentinel Lab
+- Configured data connectors.
+- Created analytics rules and dashboards.
+- Investigated security incidents.
+
+### Network Traffic Analysis
+- Captured and analyzed packets using Wireshark.
+- Investigated protocols and suspicious traffic.
+
+### Vulnerability Assessment Lab
+- Conducted vulnerability scans.
+- Analyzed findings and remediation strategies.
+
+### Home Cybersecurity Lab
+- Built a personal environment for learning SOC operations, security monitoring, and incident investigation.
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: www.linkedin.com/in/allam-venkata-vishnu-vardhan
+- GitHub: github.com/venkatavishnuvardhana
+- Email: your-email@example.com
+
+---
+
+⭐ Always learning, building, and improving in cybersecurity.
