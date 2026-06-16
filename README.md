@@ -4,7 +4,7 @@
 
 ---
 
-## 🚀 About Me
+## 🔗 About Me
 
 I am a Cybersecurity enthusiast pursuing a B.Tech in Cybersecurity with a strong interest in Security Operations Center (SOC) operations, threat detection, incident response, and network security.
 
@@ -12,7 +12,7 @@ I have hands-on experience working with SIEM platforms, log analysis, network tr
 
 ---
 
-## 🛠️ Skills
+##🔗 Skills
 
 - Security monitoring and alert analysis using SIEM platforms such as IBM QRadar and Microsoft Sentinel.
 - Network traffic analysis and troubleshooting using Wireshark and networking fundamentals.
@@ -23,7 +23,7 @@ I have hands-on experience working with SIEM platforms, log analysis, network tr
 
 ---
 
-## 🏆 Certifications
+##🔗 Certifications
 
 - Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC-900)
 - Cisco Introduction to Cybersecurity
@@ -32,7 +32,7 @@ I have hands-on experience working with SIEM platforms, log analysis, network tr
 
 ---
 
-## 🔬 Projects & Labs
+## 🔗 Projects & Labs
 
 ### Wazuh SOC Lab
 - Built and configured a Wazuh-based SOC environment for security monitoring and log management.
@@ -42,7 +42,7 @@ I have hands-on experience working with SIEM platforms, log analysis, network tr
 
 ---
 
-## 📚 Learning & Development
+## 🔗 Learning & Development
 
 - Continuously strengthening SOC Analyst skills through hands-on labs and security monitoring exercises.
 - Expanding knowledge of threat detection, incident response, and threat hunting methodologies.
@@ -51,7 +51,7 @@ I have hands-on experience working with SIEM platforms, log analysis, network tr
 
 ---
 
-## 📫 Connect With Me
+## 🔗 Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/avenkatavishnuvardhan
 - GitHub: github.com/venkatavishnuvardhana
