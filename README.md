@@ -14,85 +14,49 @@ I have hands-on experience working with SIEM platforms, log analysis, network tr
 
 ## 🛠️ Skills
 
-### Security Operations
-- Threat Detection
-- Incident Response
-- Log Analysis
-- Threat Hunting
-- Security Monitoring
-
-### SIEM Platforms
-- IBM QRadar
-- Microsoft Sentinel
-
-### Security Tools
-- Microsoft Defender
-- Wireshark
-- Nmap
-- Burp Suite
-- Kali Linux
-
-### Frameworks
-- MITRE ATT&CK
-- Cyber Kill Chain
-
-### Networking
-- TCP/IP
-- OSI Model
-- Network Security Fundamentals
-- CCNA Concepts
-
-### Operating Systems
-- Windows
-- Linux
-
-### Ticketing & Collaboration
-- ServiceNow
-- Jira
-- Microsoft Office
+- Security monitoring and alert analysis using SIEM platforms such as IBM QRadar and Microsoft Sentinel.
+- Network traffic analysis and troubleshooting using Wireshark and networking fundamentals.
+- Understanding of threat detection, incident response, log analysis, and SOC workflows.
+- Knowledge of MITRE ATT&CK Framework and Cyber Kill Chain for attack mapping and investigation.
+- Experience working with Windows and Linux operating systems in security-focused environments.
+- Familiarity with ticketing and case management tools including ServiceNow and Jira.
 
 ---
 
 ## 🏆 Certifications
 
 - Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC-900)
-- Cisco Networking Academy Certifications
 - Cisco Introduction to Cybersecurity
 - Cisco Cybersecurity Essentials
-
-> Currently preparing for advanced SOC and Blue Team certifications.
+- Cisco Networking Academy Certifications
 
 ---
 
 ## 🔬 Projects & Labs
 
-### SOC Monitoring Lab
-- Investigated security events and alerts.
-- Performed log analysis and alert triage.
+### Wazuh SOC Lab
+- Built and configured a Wazuh-based SOC environment for security monitoring and log management.
+- Collected and analyzed security events from monitored endpoints.
+- Investigated alerts and practiced incident detection and response workflows.
+- Gained hands-on experience with log analysis, threat detection, and security monitoring.
 
-### Microsoft Sentinel Lab
-- Configured data connectors.
-- Created analytics rules and dashboards.
-- Investigated security incidents.
+---
 
-### Network Traffic Analysis
-- Captured and analyzed packets using Wireshark.
-- Investigated protocols and suspicious traffic.
+## 📚 Learning & Development
 
-### Vulnerability Assessment Lab
-- Conducted vulnerability scans.
-- Analyzed findings and remediation strategies.
-
-### Home Cybersecurity Lab
-- Built a personal environment for learning SOC operations, security monitoring, and incident investigation.
+- Continuously strengthening SOC Analyst skills through hands-on labs and security monitoring exercises.
+- Expanding knowledge of threat detection, incident response, and threat hunting methodologies.
+- Learning advanced SIEM operations, log analysis, and security investigation techniques.
+- Building practical cybersecurity skills through real-world projects and self-directed learning.
 
 ---
 
 ## 📫 Connect With Me
 
-- LinkedIn: www.linkedin.com/in/allam-venkata-vishnu-vardhan
+- LinkedIn: https://www.linkedin.com/in/avenkatavishnuvardhan
 - GitHub: github.com/venkatavishnuvardhana
-- Email: your-email@example.com
+- Email: venkatavishnuvardhana@gmail.com
+
 
 ---
 
